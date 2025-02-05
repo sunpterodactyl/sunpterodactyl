@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunpterodactyl
 - 👀 I’m interested in full-stack application development and AI 
-- 🌱 I’m currently learning web development, the fundamentals of ML - in particular recommender systems for sound! 
+- 🌱 I’m currently learning the fundamentals of recommender systems for sound and NLP!  
 - 💞️ I’m looking to collaborate on projects that involve recommender systems or web scraping 
 - 📫 How to reach me inforsunpteranadon@gmail.com 
 - 😄 Pronouns: ...

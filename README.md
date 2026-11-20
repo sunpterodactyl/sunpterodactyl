@@ -18,7 +18,10 @@ Hi, I'm Sanya! I'm a Computer Science student currently navigating the world of 
   - Prometheus metrics and a load-test script
   - README covering consistency, failure modes, latency and throughput
   - *Follow-up work:* multi-node Kubernetes, distributed consensus, custom CUDA kernels and a full ASR/TTS stack
-- **NPU-TPU-GPU:** Local LLM quantization, agent harnesses.
+
+### 🔧 What I'm Currently Learning
+
+LLM Inference
 
 ### A Special Interest of Mine
 - **Quantum Computing:** Quantum-curious! ⚛️ Interested in running quantum workloads and exploring QEC. This is on hold for now, but I would love to go deeper!
